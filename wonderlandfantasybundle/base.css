@@ -585,7 +585,7 @@ svg[name="Activity"] {
 
 .homeIcon-tEMBK1 {
   background-color: var(--home-color);
-  -webkit-mask: url(http://binarybreakfast.github.io/wonderlandfantasybundle/png/home.svg);
+  -webkit-mask: url(https://binarybreakfast.github.io/wonderlandfantasybundle/png/home.svg);
   -webkit-mask-size: var(--home-size);
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-position: center;
