@@ -9,12 +9,12 @@
   --theme-version: "1.0";
   --main-color: #16356d;
   --hover-color: #1c4faf;
-  --online: #3a996c; /*#43b581*/
-  --idle: #f97c1b; /*#faa61a*/
-  --dnd: #d62a2a; /*#f04747*/
-  --offline: #465f7f; /*#636b75*/
+  --online: #007749; /*#3a996c #43b581*/
+  --idle: #ffb81c; /*#f97c1b #faa61a*/
+  --dnd: #e03c31; /*#d62a2a #f04747*/
+  --offline: #000000; /*#465f7f #636b75*/
   --invisible: #8ba2bf; /*#747f8d*/
-  --streaming: #4b258c; /*#643da7*/
+  --streaming: #001489; /*#4b258c #643da7*/
   --home-color: #eee;
   --home-size: 24px;
   --roundness: 0px;
