@@ -36,10 +36,10 @@
   }
 
 /* Table of Contents 
- ============== STATIC ===============
-1. Backgrund
-  1.a. Main Background
-  1.b. Transparency
+ ============== CONTENTS ===============
+1. Background
+  1.1. Main Background
+  1.2. Transparency
 
 2. User Settings
 
@@ -57,7 +57,7 @@
 
 
 /* 1. Background */
-  /* 1.a. Main Background */
+  /* 1.1. Main Background */
   .appMount-3lHmkl::before {
     position: absolute;
     content: " ";
@@ -75,7 +75,7 @@
     background-color: var(--primary-color);
   }
   
-    /* 1.b. Transparency */
+    /* 1.2. Transparency */
   .layer-3QrUeG, 
   .layers-3iHuyZ,
   .container-2lgZY8,
