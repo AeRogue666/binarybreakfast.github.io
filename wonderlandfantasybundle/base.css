@@ -585,7 +585,7 @@ svg[name="Activity"] {
 
 .homeIcon-tEMBK1 {
   background-color: var(--home-color);
-  -webkit-mask: url(http://binarybreakfast.github.io/wonderlandfantasybundle/png/home.png);
+  -webkit-mask: url(http://binarybreakfast.github.io/wonderlandfantasybundle/png/home.svg);
   -webkit-mask-size: var(--home-size);
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-position: center;
@@ -4843,19 +4843,19 @@ foreignObject[mask*="mobile"]::after {
   }
   
   #status-picker .item-1tOPte:nth-child(1) .status-1fhblQ {
-    background-image: url(https://binarybreakfast.github.io/wonderlandfantasybundle/status/online.png);
+    background-image: url(https://binarybreakfast.github.io/wonderlandfantasybundle/status/online.svg);
   }
   
   #status-picker .item-1tOPte:nth-child(3) .status-1fhblQ {
-    background-image: url(https://binarybreakfast.github.io/wonderlandfantasybundle/status/idle.png);
+    background-image: url(https://binarybreakfast.github.io/wonderlandfantasybundle/status/idle.svg);
   }
   
   #status-picker .item-1tOPte:nth-child(4) .status-1fhblQ {
-    background-image: url(https://binarybreakfast.github.io/wonderlandfantasybundle/status/dnd.png);
+    background-image: url(https://binarybreakfast.github.io/wonderlandfantasybundle/status/dnd.svg);
   }
   
   #status-picker .item-1tOPte:nth-child(5) .status-1fhblQ {
-    background-image: url(https://binarybreakfast.github.io/wonderlandfantasybundle/status/invisible.png);
+    background-image: url(https://binarybreakfast.github.io/wonderlandfantasybundle/status/invisible.svg);
   }
   
   #status-picker .item-1tOPte .icon-1IxfJ2 .status-oxiHuE {
