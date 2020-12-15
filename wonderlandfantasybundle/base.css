@@ -1,6 +1,7 @@
 /* Imports */
-@import "https://fonts.googleapis.com/css?family=Langar|Regular:400";
+@import "https://fonts.googleapis.com/css?family=Satisfy|Montserrat:300";
 @import "https://monstrousdev.github.io/themes/addons/user-tags.css";
+/* @import "https://monstrousdev.github.io/themes/addons/filter.css"; */
 @import "https://www.themonster.xyz/styles/google-fonts.css";
 @import url("https://discord-custom-covers.github.io/usrbg/snippets/userPopouts.css");
 
@@ -9,12 +10,12 @@
   --theme-version: "1.0";
   --main-color: #16356d;
   --hover-color: #1c4faf;
-  --online: #007749; /*#3a996c #43b581*/
-  --idle: #ffb81c; /*#f97c1b #faa61a*/
-  --dnd: #e03c31; /*#d62a2a #f04747*/
-  --offline: #000000; /*#465f7f #636b75*/
-  --invisible: #8ba2bf; /*#747f8d*/
-  --streaming: #001489; /*#4b258c #643da7*/
+  --online: #43b581;
+  --idle: #faa61a;
+  --dnd: #f04747;
+  --offline: #636b75;
+  --invisible: #747f8d;
+  --streaming: #643da7;
   --home-color: #eee;
   --home-size: 24px;
   --roundness: 0px;
