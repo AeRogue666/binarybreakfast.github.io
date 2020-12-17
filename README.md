@@ -15,4 +15,5 @@ Coming soon (if I can do that):
 - SF Music loader
 - Most Icons customs
 
-
+To install the theme on your Discord, you need to install BetterDiscord.
+https://betterdiscord.net/home/
