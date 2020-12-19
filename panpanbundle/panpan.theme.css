@@ -1,0 +1,51 @@
+/**
+ * @name         PanPan Theme
+ * @description  Shiro Theme - Black Theme Discord required
+ * @author       AeRogue
+ * @version      1.0
+ * @source		 https://github.com/monstrousdev/themes/theme-files/Reborn.theme.css
+ * @invite       discord.me/wonderlandfantasy
+ * @authorId     359051199397232652
+ */
+
+/* IMPORT CSS FROM GITHUB */
+@import "https://binarybreakfast.github.io/panpanbunle/panpan.css";
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/RGB/2.css");
+
+:root {
+  --roundness: 50px; /* edit roundness of icons from 0px to 50px */
+ --main-color: #fff284; /* Main Color #007dbd*/
+  --hover-color: #610b52; /* Hover Color #03679b*/
+  --home-color: #ff9c00; /* Change home icon color #eee*/
+  --home-size: 15px; /* size of the home icon */
+  --shadow: rgba(0,0,0,.4); /* change to darken lighten, or set to transparent */
+ --background-image: url(https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/124934855_439400167450206_7600961444046560570_o.png?_nc_cat=107&ccb=2&_nc_sid=e3f864&_nc_ohc=VWtDm2yV15cAX-F0Ek8&_nc_ht=scontent-cdg2-1.xx&oh=9086d86f7167692ccdc8b55e4f69aac2&oe=5FFC6F5A); /* change background */
+  --background-blur: 0px; /* Main Background Blur */
+ --popup-background: transparent/*url(https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/124934855_439400167450206_7600961444046560570_o.png?_nc_cat=107&ccb=2&_nc_sid=e3f864&_nc_ohc=VWtDm2yV15cAX-F0Ek8&_nc_ht=scontent-cdg2-1.xx&oh=9086d86f7167692ccdc8b55e4f69aac2&oe=5FFC6F5A)*/;  /* Background for popups and modals */
+  --background-darkness: 0.50; /* change the darkness of your background. 1 makes it completely black, 0 makes it like the original image */
+ /*RGB*/
+ --C1: rgb(255, 255, 255);
+ --C2: rgb(224, 26, 58);
+ --time: 7.5s;
+ --ServerSize: 45px;
+ --ServerColumns: 1;
+}
+.homeIcon-tEMBK1 {
+  background-color: var(--home-color);
+  -webkit-mask: url(https://binarybreakfast.github.io/panpanbundle/png/home_little.svg);
+  -webkit-mask-size: var(--home-size);
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+}
+
+/*
+---------------------------------------------------------------------------------------------------------------------------------------------
+===== CREDITS =====
+URI
+BEARDDESIGN
+ZERTHOX
+MONSTERDEV (The Creator)
+===== TROUBLESHOOTING =====
+If you need help, join our discord discord.me/wonderlandfantasy
+---------------------------------------------------------------------------------------------------------------------------------------------
+*/
